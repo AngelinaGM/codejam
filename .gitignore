@@ -1,0 +1,4 @@
+#exclude everything except src dir and pom file
+/*
+!/src
+!pom.xml
